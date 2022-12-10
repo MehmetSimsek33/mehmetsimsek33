@@ -22,6 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetsimsek33&show_icons=true&locale=en&layout=compact" alt="mehmetsimsek33" /></p>
 <a href="https://dev.to/mehmetsimsek33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mehmetsimsek33" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehmetsimsek33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetsimsek33" height="30" width="40" /></a>
 <a href="https://instagram.com/mehmetsimsek3333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmetsimsek3333" height="30" width="40" /></a>
@@ -50,6 +51,6 @@
 <br></br>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetsimsek33&show_icons=true&locale=en&layout=compact" alt="mehmetsimsek33" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetsimsek33&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetsimsek33" /> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetsimsek33&" alt="mehmetsimsek33" /></p>
